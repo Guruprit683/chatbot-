@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/bcd93d59-53f4-4764-abe9-5676843a1fbb
+**URL**:http://localhost:8080/
 
 **Use your preferred IDE**
 
